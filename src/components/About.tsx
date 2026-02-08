@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import AnimatedSection from "./AnimatedSection";
 import { PiSparkle, PiHeart, PiStar } from "react-icons/pi";
 
@@ -26,26 +25,7 @@ export default function About() {
   return (
     <section id="about" className="section-padding bg-white">
       <div className="max-w-7xl mx-auto">
-        <div className="grid lg:grid-cols-2 gap-16 items-center">
-          {/* Image */}
-          <AnimatedSection direction="left">
-            <div className="relative">
-              <div className="relative w-full aspect-[4/5] rounded-[2rem] overflow-hidden shadow-xl shadow-blush-100/40">
-                <Image
-                  src="/images/Diamond.png"
-                  alt="Diamond - Professional Makeup Artist"
-                  fill
-                  className="object-cover"
-                  sizes="(max-width: 768px) 100vw, 50vw"
-                />
-              </div>
-              {/* Decorative frame */}
-              <div className="absolute -bottom-4 -right-4 w-full h-full border-2 border-blush-300 rounded-[2rem] -z-10" />
-            </div>
-          </AnimatedSection>
-
-          {/* Content */}
-          <div>
+        <div className="max-w-3xl mx-auto">
             <AnimatedSection direction="right">
               <p className="font-body text-sm tracking-[0.3em] uppercase text-blush-500 mb-3">
                 About Me
@@ -90,7 +70,6 @@ export default function About() {
               ))}
             </div>
           </div>
-        </div>
       </div>
     </section>
   );
