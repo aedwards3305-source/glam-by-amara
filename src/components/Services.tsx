@@ -9,28 +9,28 @@ const services = [
     title: "Bridal Makeup",
     description:
       "Your dream look for your dream day. Includes a full trial, touch-up kit, and on-site application for a flawless finish that lasts from ceremony to last dance.",
-    price: "From £350",
+    price: "From $400",
   },
   {
     icon: PiCamera,
     title: "Editorial & Fashion",
     description:
       "Bold, creative looks for magazine shoots, campaigns, and runway shows. I bring high-fashion vision to life with precision and artistry.",
-    price: "From £250",
+    price: "From $300",
   },
   {
     icon: PiCrown,
     title: "Special Occasions",
     description:
       "Galas, red carpets, birthdays, or date nights — look and feel extraordinary for life's most memorable celebrations.",
-    price: "From £150",
+    price: "From $175",
   },
   {
     icon: PiPalette,
     title: "Makeup Lessons",
     description:
-      "Learn professional techniques in a personalised one-on-one session. Discover the products and methods that work best for your unique features.",
-    price: "From £120",
+      "Learn professional techniques in a personalized one-on-one session. Discover the products and methods that work best for your unique features.",
+    price: "From $150",
   },
 ];
 
