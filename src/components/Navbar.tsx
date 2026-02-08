@@ -35,8 +35,8 @@ export default function Navbar() {
         {/* Logo */}
         <a href="#home" className="relative z-10">
           <span className="font-display text-2xl md:text-3xl text-gray-800 tracking-wide">
-            Glam{" "}
-            <span className="text-blush-500 italic">by Diamond</span>
+            Diamond{" "}
+            <span className="text-blush-500 italic">Beauty Makeup</span>
           </span>
         </a>
 

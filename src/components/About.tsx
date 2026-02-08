@@ -62,10 +62,11 @@ export default function About() {
                 with an artist&apos;s eye for color and light.
               </p>
               <p className="font-body text-gray-500 leading-relaxed mb-10">
-                Based in London, I&apos;ve had the privilege of working with
-                renowned brands, fashion houses, and hundreds of beautiful
-                brides. My philosophy is simple: enhance, never mask. Your
-                beauty is the star — I just help it shine brighter.
+                Based in Springfield, Virginia, I&apos;ve had the privilege of
+                working with renowned brands, fashion houses, and hundreds of
+                beautiful brides across the DMV area. My philosophy is simple:
+                enhance, never mask. Your beauty is the star — I just help it
+                shine brighter.
               </p>
             </AnimatedSection>
 

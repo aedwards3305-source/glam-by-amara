@@ -61,7 +61,7 @@ export default function Contact() {
                     <p className="font-body text-sm text-gray-400 uppercase tracking-wider">
                       Based In
                     </p>
-                    <p className="font-body text-gray-700">London, UK</p>
+                    <p className="font-body text-gray-700">Springfield, VA</p>
                   </div>
                 </div>
 
@@ -74,7 +74,7 @@ export default function Contact() {
                       Email
                     </p>
                     <p className="font-body text-gray-700">
-                      hello@glambydiamond.com
+                      hello@diamondbeautymakeup.com
                     </p>
                   </div>
                 </div>
@@ -87,7 +87,7 @@ export default function Contact() {
                     <p className="font-body text-sm text-gray-400 uppercase tracking-wider">
                       Phone
                     </p>
-                    <p className="font-body text-gray-700">+44 7700 900 123</p>
+                    <p className="font-body text-gray-700">(703) 555-0123</p>
                   </div>
                 </div>
               </div>

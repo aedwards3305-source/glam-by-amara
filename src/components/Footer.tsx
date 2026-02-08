@@ -21,11 +21,11 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <span className="font-display text-2xl tracking-wide">
-              Glam <span className="text-blush-400 italic">by Diamond</span>
+              Diamond <span className="text-blush-400 italic">Beauty Makeup</span>
             </span>
             <p className="font-body text-gray-400 text-sm leading-relaxed mt-4 max-w-xs">
               Luxury makeup artistry for weddings, editorials, and life&apos;s
-              most beautiful moments. Based in London, available worldwide.
+              most beautiful moments. Based in Springfield, VA — serving the DMV area and beyond.
             </p>
           </div>
 
@@ -65,7 +65,7 @@ export default function Footer() {
               ))}
             </div>
             <p className="font-body text-sm text-gray-400 mt-6">
-              hello@glambydiamond.com
+              hello@diamondbeautymakeup.com
             </p>
           </div>
         </div>
@@ -73,7 +73,7 @@ export default function Footer() {
         {/* Divider */}
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="font-body text-xs text-gray-500">
-            &copy; {new Date().getFullYear()} Glam by Diamond. All rights
+            &copy; {new Date().getFullYear()} Diamond Beauty Makeup. All rights
             reserved.
           </p>
           <p className="font-body text-xs text-gray-500 flex items-center gap-1">
