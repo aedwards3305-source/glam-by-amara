@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Glam by Amara | Professional Makeup Artist",
+  title: "Glam by Diamond | Professional Makeup Artist",
   description:
     "Luxury makeup artistry for weddings, editorial, and special occasions. Elevating your natural beauty with bespoke looks crafted just for you.",
   keywords: [
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     "professional makeup",
   ],
   openGraph: {
-    title: "Glam by Amara | Professional Makeup Artist",
+    title: "Glam by Diamond | Professional Makeup Artist",
     description:
       "Luxury makeup artistry for weddings, editorial, and special occasions.",
     type: "website",

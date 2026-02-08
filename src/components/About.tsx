@@ -32,8 +32,8 @@ export default function About() {
             <div className="relative">
               <div className="relative w-full aspect-[4/5] rounded-[2rem] overflow-hidden shadow-xl shadow-blush-100/40">
                 <Image
-                  src="/images/amara.jpg"
-                  alt="Amara - Professional Makeup Artist"
+                  src="/images/Diamond.png"
+                  alt="Diamond - Professional Makeup Artist"
                   fill
                   className="object-cover"
                   sizes="(max-width: 768px) 100vw, 50vw"
@@ -52,7 +52,7 @@ export default function About() {
               </p>
               <h2 className="section-title mb-6">
                 Hello, I&apos;m{" "}
-                <span className="text-blush-500 italic">Amara</span>
+                <span className="text-blush-500 italic">Diamond</span>
               </h2>
               <p className="font-body text-gray-500 leading-relaxed mb-6">
                 With over a decade of experience in the beauty industry, I

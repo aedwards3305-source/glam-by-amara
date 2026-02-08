@@ -74,7 +74,7 @@ export default function Contact() {
                       Email
                     </p>
                     <p className="font-body text-gray-700">
-                      hello@glambyamara.com
+                      hello@glambydiamond.com
                     </p>
                   </div>
                 </div>

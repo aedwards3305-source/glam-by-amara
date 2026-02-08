@@ -9,25 +9,25 @@ const testimonials = [
   {
     name: "Sophie L.",
     role: "Bride",
-    text: "Amara made me feel like the most beautiful version of myself on my wedding day. She listened to every detail and created a look that was timeless, elegant, and utterly perfect. I cried happy tears — and the makeup didn't budge!",
+    text: "Diamond made me feel like the most beautiful version of myself on my wedding day. She listened to every detail and created a look that was timeless, elegant, and utterly perfect. I cried happy tears — and the makeup didn't budge!",
     rating: 5,
   },
   {
     name: "Charlotte M.",
     role: "Fashion Editor",
-    text: "Working with Amara on our editorial shoots is always a dream. She brings creative vision, flawless execution, and an incredible energy to set. The looks she creates are pure art.",
+    text: "Working with Diamond on our editorial shoots is always a dream. She brings creative vision, flawless execution, and an incredible energy to set. The looks she creates are pure art.",
     rating: 5,
   },
   {
     name: "Priya K.",
     role: "Bride",
-    text: "From the trial to the big day, Amara was an absolute professional. She understood my skin tone and cultural preferences perfectly. My makeup looked stunning in every photo. Highly recommend!",
+    text: "From the trial to the big day, Diamond was an absolute professional. She understood my skin tone and cultural preferences perfectly. My makeup looked stunning in every photo. Highly recommend!",
     rating: 5,
   },
   {
     name: "Emma R.",
     role: "Private Client",
-    text: "I booked Amara for a special birthday dinner and felt like a Hollywood star. She has a gift for making you look glamorous while still looking like yourself. I get compliments every time I share those photos.",
+    text: "I booked Diamond for a special birthday dinner and felt like a Hollywood star. She has a gift for making you look glamorous while still looking like yourself. I get compliments every time I share those photos.",
     rating: 5,
   },
 ];

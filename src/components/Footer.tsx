@@ -21,7 +21,7 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <span className="font-display text-2xl tracking-wide">
-              Glam <span className="text-blush-400 italic">by Amara</span>
+              Glam <span className="text-blush-400 italic">by Diamond</span>
             </span>
             <p className="font-body text-gray-400 text-sm leading-relaxed mt-4 max-w-xs">
               Luxury makeup artistry for weddings, editorials, and life&apos;s
@@ -65,7 +65,7 @@ export default function Footer() {
               ))}
             </div>
             <p className="font-body text-sm text-gray-400 mt-6">
-              hello@glambyamara.com
+              hello@glambydiamond.com
             </p>
           </div>
         </div>
@@ -73,7 +73,7 @@ export default function Footer() {
         {/* Divider */}
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="font-body text-xs text-gray-500">
-            &copy; {new Date().getFullYear()} Glam by Amara. All rights
+            &copy; {new Date().getFullYear()} Glam by Diamond. All rights
             reserved.
           </p>
           <p className="font-body text-xs text-gray-500 flex items-center gap-1">

@@ -74,8 +74,8 @@ export default function Hero() {
             {/* Main image */}
             <div className="absolute inset-0 rounded-[2rem] overflow-hidden shadow-2xl shadow-blush-200/50">
               <Image
-                src="/images/amara.jpg"
-                alt="Amara - Professional Makeup Artist"
+                src="/images/Diamond.png"
+                alt="Diamond - Professional Makeup Artist"
                 fill
                 className="object-cover"
                 priority
